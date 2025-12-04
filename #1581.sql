@@ -1,4 +1,4 @@
--- Leetcode Problem 1581:   customer-who-visited-but-did-not-make-any-transactions
+-- Leetcode Prob1581:   customer-who-visited-but-did-not-make-any-transactions
 
 -- select v.customer_id, COUNT(*) AS count_no_trans
 -- from Visits v
