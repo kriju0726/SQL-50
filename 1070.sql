@@ -24,3 +24,9 @@ where ((product_id, year) IN (select product_id, min(year)
 
 
 
+
+
+
+
+
+
