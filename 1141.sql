@@ -1,5 +1,5 @@
 -- Leetcode Problem 1141:    User Activity for the Past 30 Days I
--- # Write your MySQL query statement below
+
 select distinct activity_date as day,
 count(distinct user_id) as active_users
 from Activity
